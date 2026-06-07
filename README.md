@@ -15,7 +15,7 @@ Provide insights to improve marketing effectiveness
 
 📂 Dataset
 
-Marketing/Funnel dataset (mention your dataset name if available)
+Marketing/Funnel dataset 
 Includes:
 Impressions
 Clicks
@@ -27,7 +27,9 @@ Date/Time
 🛠️ Tools & Technologies
 
 Power BI / Tableau
+
 Excel (Data Cleaning)
+
 DAX / Calculated Measures
 
 📈 Key Insights
